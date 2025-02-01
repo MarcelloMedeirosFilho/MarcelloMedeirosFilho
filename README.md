@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <p align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=MarcelloMedeirosFilho&show_icons=true&theme=merko" />
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloMedeirosFilho&layout=compact&theme=merko" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcelloMedeirosFilho&show_icons=true&theme=merko" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloMedeirosFilho&layout=compact&theme=merko" />
 </p>
 
 <div style="display: inline_block"><br>
